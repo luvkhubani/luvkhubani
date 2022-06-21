@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luvkhubani
-- I am a Software Developer and E-Commerce Specialist.
+- I am a Full Stack Mobile Application Developer and E-Commerce Specialist.
 - My day is composed of doing Multi-million Dollar business, reading novels, coding, and working out.
 
 <!---
